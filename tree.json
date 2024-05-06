@@ -1,0 +1,309 @@
+{
+    "level": 0,
+    "name": "中药",
+    "children": [
+        {
+            "level": 1,
+            "name": "清热药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "清虚热药"
+                },
+                {
+                    "level": 2,
+                    "name": "清热解毒药"
+                },
+                {
+                    "level": 2,
+                    "name": "清热泻火药"
+                },
+                {
+                    "level": 2,
+                    "name": "清热凉血药"
+                },
+                {
+                    "level": 2,
+                    "name": "清热燥湿药"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "止血药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "收敛止血药",
+                    "value": 17010
+                },
+                {
+                    "level": 2,
+                    "name": "凉血止血药",
+                    "value": 5842
+                },
+                {
+                    "level": 2,
+                    "name": "化瘀止血药"
+                },
+                {
+                    "level": 2,
+                    "name": "温经止血药",
+                    "value": 1041
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "解表药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "辛温解表药"
+                },
+                {
+                    "level": 2,
+                    "name": "辛凉解表药",
+                    "value": 1759
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "祛风湿药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "祛风湿散寒药",
+                    "value": 8833
+                },
+                {
+                    "level": 2,
+                    "name": "祛风湿清热药",
+                    "value": 1732
+                },
+                {
+                    "level": 2,
+                    "name": "祛风湿强筋骨药",
+                    "value": 3623
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "泻下药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "攻下药",
+                    "value": 4116
+                },
+                {
+                    "level": 2,
+                    "name": "润下药",
+                    "value": 4116
+                },
+                {
+                    "level": 2,
+                    "name": "峻下逐水药",
+                    "value": 4116
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "活血化瘀药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "活血止痛药",
+                    "value": 1082
+                },
+                {
+                    "level": 2,
+                    "name": "活血调经药",
+                    "value": 1336
+                },
+                {
+                    "level": 2,
+                    "name": "活血疗伤药",
+                    "value": 319
+                },
+                {
+                    "level": 2,
+                    "name": "破血消癥药",
+                    "value": 10498
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "补虚药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "补气药",
+                    "value": 1616
+                },
+                {
+                    "level": 2,
+                    "name": "补阳药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "补血药",
+                    "value": 3891
+                },
+                {
+                    "level": 2,
+                    "name": "补阴药",
+                    "value": 891
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "化痰止咳平喘药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "温化寒痰药",
+                    "value": 2105
+                },
+                {
+                    "level": 2,
+                    "name": "清化热痰药",
+                    "value": 1316
+                },
+                {
+                    "level": 2,
+                    "name": "止咳平喘药",
+                    "value": 3151
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "安神药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "重镇安神药",
+                    "value": 8258
+                },
+                {
+                    "level": 2,
+                    "name": "养心安神药",
+                    "value": 10001
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "利水渗湿药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "利水消肿药"
+                },
+                {
+                    "level": 2,
+                    "name": "利尿通淋药"
+                },
+                {
+                    "level": 2,
+                    "name": "利湿退黄药"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "平肝息风药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "平抑肝阳药",
+                    "value": 1616
+                },
+                {
+                    "level": 2,
+                    "name": "息风止痉药",
+                    "value": 1027
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "收涩药",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "固表止汗药",
+                    "value": 1616
+                },
+                {
+                    "level": 2,
+                    "name": "敛肺涩肠药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "固精缩尿止带药",
+                    "value": 1027
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "name": "其他",
+            "children": [
+                {
+                    "level": 2,
+                    "name": "化湿药",
+                    "value": 1616
+                },
+                {
+                    "level": 2,
+                    "name": "温里药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "理气药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "驱虫药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "消食药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "开窍药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "涌吐药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "杀虫止痒药",
+                    "value": 1027
+                },
+                {
+                    "level": 2,
+                    "name": "拔毒生肌药",
+                    "value": 1027
+                }
+            ]
+        }
+    ]
+}
